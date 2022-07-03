@@ -4,6 +4,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+//https://leetcode.com/problems/longest-string-chain/
+
 public class LongestStringChain {
   public static void main(String[] args) {
     var longestChain = new LongestStringChain();

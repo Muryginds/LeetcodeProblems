@@ -1,4 +1,7 @@
+//https://leetcode.com/problems/merge-k-sorted-lists/
+
 public class Solution {
+
   public ListNode mergeKLists(ListNode[] lists) {
     ListNode first = null;
     ListNode previous = null;
